@@ -1,9 +1,9 @@
-# 🧠 Prompt Engineering Playground
+#  Prompt Engineering Playground
 
-## 🌟 Project Overview
+##  Project Overview
 A comprehensive demonstration of advanced prompting techniques for large language models, showcasing the art and science of prompt engineering.
 
-### 🚀 Key Features
+###  Key Features
 - Interactive Streamlit web application
 - Demonstration of 5 advanced prompting techniques:
   1. Zero-Shot Prompting
@@ -12,10 +12,11 @@ A comprehensive demonstration of advanced prompting techniques for large languag
   4. Role-Playing Prompting
   5. Persona-Based Prompting
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8+
+- pip
 - OpenAI API Key
 
 ### Setup Steps
@@ -41,7 +42,7 @@ pip install -r requirements.txt
 export OPENAI_API_KEY='your-api-key-here'
 ```
 
-## 🖥️ Running the Application
+##  Running the Application
 
 ### Streamlit App
 ```bash
@@ -53,12 +54,12 @@ streamlit run src/streamlit_app.py
 python -m src.prompt_playground
 ```
 
-## 🧪 Running Tests
+##  Running Tests
 ```bash
 pytest tests/
 ```
 
-## 📝 Key Techniques Explained
+##  Key Techniques Explained
 
 ### 1. Zero-Shot Prompting
 Generate responses without specific examples, testing the model's base knowledge.
@@ -75,16 +76,13 @@ Assign specific roles to generate contextually rich responses.
 ### 5. Persona-Based Prompting
 Tailor responses by adopting specific personas and communication styles.
 
-## 🤝 Contributing
-Contributions are welcome! Please read the CONTRIBUTING.md for details.
+## Contributing
+Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📄 License
- MIT
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💡 About the Author
+##  About the Author
 **Swanand Potnis**
 - LinkedIn: www.linkedin.com/in/swanandpotnis
 - GitHub: https://github.com/Swanand33
-
-## 🌐 Connect & Learn More
-Explore the fascinating world of prompt engineering and AI interaction!

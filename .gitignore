@@ -1,43 +1,52 @@
-# Ignore virtual environment
-venv/
-VENV/
-
-# Ignore Python cache files
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
 
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore environment variables
-.env
-*.env
-
-# Ignore logs and temporary files
-*.log
-*.tmp
-*.swp
-.DS_Store
-
-# Ignore compiled files
+# C extensions
 *.so
-*.o
-*.a
-*.out
 
-# Ignore IDE/editor config files
-.vscode/
-.idea/
-*.iml
-
-# Ignore dependency directories
-node_modules/
+# Distribution / packaging
 dist/
 build/
 *.egg-info/
 
-# Ignore OS-specific files
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS generated files
+.DS_Store
 Thumbs.db
-ehthumbs.db
+
+# Testing and coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Outputs and generated files
+outputs/
+*.csv
+*.json
+
+# Miscellaneous
+*.bak
+*.tmp
