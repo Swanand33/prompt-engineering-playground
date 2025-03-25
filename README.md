@@ -21,7 +21,7 @@ A comprehensive demonstration of advanced prompting techniques for large languag
 ### Setup Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/prompt-engineering-playground.git
+git clone https://github.com/Swanand33/prompt-engineering-playground.git
 cd prompt-engineering-playground
 ```
 
@@ -79,13 +79,12 @@ Tailor responses by adopting specific personas and communication styles.
 Contributions are welcome! Please read the CONTRIBUTING.md for details.
 
 ## 📄 License
-[Choose your license, e.g., MIT]
+ MIT
 
 ## 💡 About the Author
 **Swanand Potnis**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: www.linkedin.com/in/swanandpotnis
+- GitHub: https://github.com/Swanand33
 
 ## 🌐 Connect & Learn More
 Explore the fascinating world of prompt engineering and AI interaction!
